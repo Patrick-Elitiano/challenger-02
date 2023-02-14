@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+}
+.top{
+    background-color: darkgray;
+    display: flex;
+}
+.bot{
+    display: flex;
+    justify-content: flex-end;
+    width: 50px;
+    height:50px;
+
+
+}
+
+.perfil{
+    display:flex ;
+}
+
+.bio{
+    margin-top: 50px;
+}
+
+.fotos {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    gap: 5px;
+    margin-left: 300px;
+}
+.fotos1{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    gap: 5px;
+    margin-left: 300px;
+    margin-top: 5px;
+}
